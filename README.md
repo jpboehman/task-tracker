@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting started with the Task Tracker React app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,6 +13,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `npm run server`
+Runs the json-server local plugin from npm. This mocks an API that we would fetch and post data to.
+Run this command before running `npm run start`
 
 ### `npm test`
 
